@@ -1,0 +1,4 @@
+{
+  "*": "bun run stylecheck",
+  "*.{ts,tsx}": "bun run lint"
+}
