@@ -1,4 +1,4 @@
-# Remote Planning Poker
+# Remote Planning Poker 🎯
 
 Plan your sprint with RP-Poker
 
