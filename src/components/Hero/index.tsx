@@ -7,7 +7,8 @@ export function Hero() {
             Plan your sprint with <span className="text-blue-600">RP-Poker</span>
           </h1>
           <p className="mt-3 text-lg text-gray-800 dark:text-gray-400">
-            Hand-picked professionals and expertly crafted components, designed for any kind of entrepreneur.
+            Say goodbye to complicated processes and hello to simplicity. Empower your team with an intuitive sprint
+            planning poker tool that ensures efficiency and collaboration. Try it now!
           </p>
 
           <div className="mt-7 grid gap-3 w-full sm:inline-flex">
