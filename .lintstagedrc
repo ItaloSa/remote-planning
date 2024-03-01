@@ -1,4 +1,4 @@
 {
   "*": "bun run stylecheck",
-  "*.{ts,tsx}": "bun run lint"
+  "*.{ts,tsx}": "nx run-many -t lint -p frontend"
 }
