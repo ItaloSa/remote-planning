@@ -1,0 +1,11 @@
+{
+  "root": "apps/backend",
+  "targets": {
+    "dev": {
+      "executor": "nx:run-script",
+      "options": {
+        "script": "dev"
+      }
+    }
+  }
+}

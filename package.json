@@ -21,7 +21,8 @@
   "scripts": {
     "prepare": "husky",
     "stylecheck": "prettier --write --ignore-unknown",
-    "dev": "nx run-many -t dev -p frontend"
+    "dev": "nx run-many -t dev -p frontend",
+    "dev:backend": "nx dev backend"
   },
   "workspaces": [
     "apps/*"
